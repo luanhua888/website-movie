@@ -120,7 +120,7 @@ function Trending() {
               </h2>
 
               <p className="text-gray-700 text-xs mb-2">
-                <strong>Year:</strong> 1994
+                <strong>Year:</strong> {item.year}
               </p>
 
               <p

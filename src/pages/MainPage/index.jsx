@@ -1,8 +1,8 @@
 import React from "react";
-import LoginButton from "../BtnLogin";
-import BtnFooter from "../Footer/BtnFooter";
-import Header from "../Header";
-import Trending from "../Trending";
+import LoginButton from "../../components/BtnLogin";
+import BtnFooter from "../../components/Footer/BtnFooter";
+import Header from "../../components/Header";
+import Trending from "../../components/Trending";
 
 function Main() {
   return (
