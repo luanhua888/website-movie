@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 
 function LoginButton() {
   return (
-    <div className="flex justify-end  gap-1">
+    <div className="flex justify-center md:justify-end gap-1">
       <button className="btn">
         <Link to="/login">login</Link>
       </button>
       <button className="btn">
-        <Link to="/register">Register</Link>
+        <Link to="/register">Sign In</Link>
       </button>
     </div>
   );

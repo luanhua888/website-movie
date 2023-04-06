@@ -103,12 +103,13 @@ function Trending() {
   const handleShowMore = () => {
     setCount(count + 4);
   };
+  
 
   return (
     <div className="mt-2">
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 cursor-pointer">
         {data.slice(0, count).map((item) => (
-          <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+          <div className="bg-white rounded-lg shadow-lg overflow-hidden ">
             <img
               className="w-full h-26 object-cover object-center"
               src={item.img}
@@ -146,10 +147,12 @@ function Trending() {
       </div>
 
       {count < data.length && (
-        <div className="flex justify-center mt-4">
+        <div className="flex justify-center mt-4
+          hover:scale-105  transition duration-300 
+         ">
           <button
             onClick={handleShowMore}
-            className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-bold py-2 px-4 rounded"
+            className="bg-gray-500  shadow-sm hover:text-white hover:shadow-sm hover:bg-primary  font-bold py-2 px-4 rounded"
           >
             Load More
           </button>

@@ -11,21 +11,23 @@ import MoviePage from "./pages/MoviePage/index.jsx";
 import AboutPage from "./pages/AboutUsPage";
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
+import ForgotPage from "./pages/ForgotPage";
 
 function App() {
   return (
-    <>
-      <div className="grid grid-cols-5">
-        <Navbar />
+    <div className="grid md:grid-cols-5">
+      <Navbar />
+      <div className=" md:col-span-4 ">
         <Routes>
           <Route path="/" element={<MainPage />} />
           <Route path="/movies" element={<MoviePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/register" element={<RegisterPage />} />
+          <Route path="/forgot" element={<ForgotPage />} />
         </Routes>
       </div>
-    </>
+    </div>
   );
 }
 
