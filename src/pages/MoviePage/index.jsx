@@ -10,7 +10,7 @@ function MoviePage() {
       genre: "Drama, Crime, Comedy",
       rating: "9.3",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+        "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -21,18 +21,20 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.2",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
       id: 3,
-      name: "The Godfather: Part II",
-      year: "1974",
+      name: "Quang Trường ",
+      year: "1999",
       duration: "3h 22min",
       genre: "Crime, Drama",
-      rating: "9.0",
+      rating: "125k/ đêm",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -43,7 +45,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -54,7 +57,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -65,7 +69,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -76,7 +81,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -87,7 +93,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -98,7 +105,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -109,7 +117,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -120,7 +129,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -131,7 +141,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
     {
@@ -142,7 +153,8 @@ function MoviePage() {
       genre: "Crime, Drama",
       rating: "9.0",
       image:
-        "https://i.pinimg.com/236x/29/72/ae/2972ae2a99d5ed137af61ae52834b5b5.jpg",
+      "https://i.pinimg.com/236x/d0/12/d7/d012d7d05249ffeb6a964c65129af5aa.jpg",
+
       trailer: "https://www.youtube.com/watch?v=6hB3S9bIaco",
     },
   ]);
@@ -297,6 +309,7 @@ function MoviePage() {
               </p>
               <p className="text-gray-700 text-xs mb-2">
                 <strong>Genre: {movie.genre}</strong>
+                <strong>Price: {movie.rating}</strong>
               </p>
               <a
                 href="https://www.youtube.com/watch?v=6hB3S9bIaco"
