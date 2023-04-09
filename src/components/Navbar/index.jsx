@@ -26,8 +26,8 @@ function Navbar() {
 
   return (
     <nav className=" ">
-      <h4 className="uppercase font-bold text-primary py-4 border-b border-primary  text-xl sm:text-2xl mr-2 flex  md:justify-end ">
-        PhimLuan.net
+      <h4 className="uppercase font-bold text-primary py-4 border-b border-primary  text-xl sm:text-2xl mr-2 flex  md:justify-end cursor-pointer">
+        <Link to="/"> PhimLuan.net</Link>
       </h4>
       <BiMenu
         size={"45px"}
@@ -63,7 +63,6 @@ function Navbar() {
             style={{
               borderRadius: "2%",
             }}
-            
           >
             <Link
               to={item.name === "Home" ? "/" : `/${item.name.toLowerCase()}`}
